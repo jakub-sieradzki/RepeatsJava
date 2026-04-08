@@ -40,8 +40,9 @@ If you want to contribute, review the code, or build the app yourself, follow th
 
 ### Steps
 1. Clone the repository:
+```
     git clone https://github.com/jakub-sieradzki/repeatsjava.git
-
+```
 2. Open the cloned directory in Android Studio.
 
 3. Let Gradle sync the project and download all necessary dependencies.
