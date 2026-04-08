@@ -19,7 +19,7 @@ The app actively helps you learn by sending you periodic notifications containin
 
 You don't need to compile it yourself. You can download the official, ready-to-use version here:
 * [Repeats on Google Play](https://play.google.com/store/apps/details?id=com.rootekstudio.repeatsandroid)
-* [Releases](https://github.com/jakub-sieradzki/RepeatsJava/releases) tab on this repro
+* [Releases](https://github.com/jakub-sieradzki/RepeatsJava/releases) tab on this repo
 
 ## Tech Stack & Libraries
 
